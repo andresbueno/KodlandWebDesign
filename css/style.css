@@ -8,7 +8,7 @@ body{
     overflow-x: hidden;
 }
 .header{
-    background-image: url(images/background.png);
+    background-image: url(../images/background.png);
     height: 800px;
     background-position: bottom;
 }
@@ -135,7 +135,7 @@ body{
     font-size: 24px;
 }
 .container--bg-img{
-    background: url(images/bg-grid.png);
+    background: url(../images/bg-grid.png);
     flex-direction: row;
 }
 
